@@ -5,7 +5,7 @@
 "Wizards" es un juego de fantasía en línea que permite a los jugadores coleccionar y entrenar magos, equiparlos con objetos mágicos, y aventurarse en mazmorras para ganar recompensas. Los jugadores pueden participar en rankings y obtener medallas por sus logros. El juego utiliza una base de datos MySQL para gestionar la información de los usuarios, magos, objetos, transacciones y otros elementos del juego.
 
 ### Link Web
-- https://proyecto-juego-chi.vercel.app/
+- [https://proyecto-juego-chi.vercel.app/](https://proyecto-juego-ten.vercel.app/)
 
 ## Tareas Actuales
 
